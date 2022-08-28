@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+.outer {
+  display: table;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.main {
+  margin-top: 0;
+}
+
+.inner {
+  display: table-cell;
+  padding: 20px;
+  text-align: center;
+}
+
+.red-box {
+  width: 300px;
+  background-color: #ff7b7b;
+}
+
+.bule-box {
+  background-color: #7b86ff;
+}
+
+.yellow-box {
+  width: 300px;
+  background: #fff27b;
+}
+
+.green-box {
+  background-color: #7bff91;
+}
+
+.pink-box {
+  width: 400px;
+  background-color: #ff7be2;
+}
+
+.orange-box {
+  width: 400px;
+  background: #ffc67b;
+}
+
+.lightbule-box {
+  background: #7bf2ff;
+}
